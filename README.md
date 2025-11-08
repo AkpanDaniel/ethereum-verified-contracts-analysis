@@ -62,12 +62,15 @@ jupyter notebook notebooks/Ethereum_VerifiedContracts_2015_2025.ipynb
 
 ## Links
 
-[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6e736c31-c259-40fe-b894-c689f55e67fd?ctid=6648e821-032e-4350-9696-ecff1b4a6ba8&pbi_source=linkShare) 
-[LinkedIn](https://www.linkedin.com/in/akpan-daniel-b09a1b1a1/) 
+[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6e736c31-c259-40fe-b894-c689f55e67fd?ctid=6648e821-032e-4350-9696-ecff1b4a6ba8&pbi_source=linkShare)  
+Medium Link https://medium.com/@danisinator123/a-decade-of-ethereum-what-816k-verified-contracts-tell-us-69967139daee
 
 
 ## License
 
 MIT License - see [LICENSE](LICENSE) file
+
+## Contact
+Akpan Daniel [LinkedIn](https://www.linkedin.com/in/akpan-daniel-b09a1b1a1/)
 
 Star this repo if you found it useful!
